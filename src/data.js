@@ -114,14 +114,110 @@ export const TOP_PLAYERS = [
 ];
 
 export const TEAM_STANDINGS = [
-  { rank: 1, id: 'green', name: 'GREEN', points: 22998, color: 'bg-green-500' },
-  { rank: 2, id: 'orange', name: 'ORANGE', points: 18520, color: 'bg-orange-400' },
-  { rank: 3, id: 'purple', name: 'PURPLE', points: 18015, color: 'bg-violet-500' },
-  { rank: 4, id: 'yellow', name: 'YELLOW', points: 17484, color: 'bg-yellow-400' },
-  { rank: 5, id: 'red', name: 'RED', points: 17152, color: 'bg-red-500' },
-  { rank: 6, id: 'cyan', name: 'CYAN', points: 15934, color: 'bg-teal-500' },
-  { rank: 7, id: 'blue', name: 'BLUE', points: 13941, color: 'bg-blue-500' },
-  { rank: 8, id: 'aqua', name: 'AQUA', points: 13268, color: 'bg-cyan-400' },
+  {
+    rank: 1,
+    id: 'green',
+    name: 'GREEN',
+    points: 22998,
+    color: 'bg-green-500',
+    players: [
+      'QesiL',
+      'Killed_By_VeGGas',
+      '__Obsydian__',
+      'CeszarzKeczup_',
+    ],
+  },
+  {
+    rank: 2,
+    id: 'orange',
+    name: 'ORANGE',
+    points: 18520,
+    color: 'bg-orange-400',
+    players: [
+      'Ego_Yoahima123',
+      'okshey',
+      '_ZiomaleQ',
+      'stachunerf',
+    ],
+  },
+  {
+    rank: 3,
+    id: 'purple',
+    name: 'PURPLE',
+    points: 18015,
+    color: 'bg-violet-500',
+    players: [
+      '_Bxng',
+      'Hacek_',
+      'Mak0vkaa',
+      'XxArbuzik_',
+    ],
+  },
+  {
+    rank: 4,
+    id: 'yellow',
+    name: 'YELLOW',
+    points: 17484,
+    color: 'bg-yellow-400',
+    players: [
+      'Tisel',
+      'cyrtyna',
+      'trolfejsx',
+      'NiebieskiNN',
+    ],
+  },
+  {
+    rank: 5,
+    id: 'red',
+    name: 'RED',
+    points: 17152,
+    color: 'bg-red-500',
+    players: [
+      'qvwx',
+      'real123XD',
+      'Maqox',
+      'h3xol',
+    ],
+  },
+  {
+    rank: 6,
+    id: 'blue',
+    name: 'BLUE',
+    points: 15934,
+    color: 'bg-blue-500',
+    players: [
+      'Dequaz',
+      'EpicTigerPro08',
+      'Robot55Ster',
+      'FireBeastMode',
+    ],
+  },
+  {
+    rank: 7,
+    id: 'cyan',
+    name: 'CYAN',
+    points: 14141,
+    color: 'bg-teal-500',
+    players: [
+      'SpaceFl1erzz',
+      'Mu55inMan',
+      'Mahiru_Enjoyer',
+      'Anna_MokreGacie',
+    ],
+  },
+  {
+    rank: 8,
+    id: 'aqua',
+    name: 'AQUA',
+    points: 13668,
+    color: 'bg-cyan-400',
+    players: [
+      'MykolaPajonkowy',
+      'Woosiee',
+      'Wojr3kk',
+      'Spoc0ny_Kacperek',
+    ],
+  },
 ];
 
 // --- 9. EDITIONS / HISTORIA EDYCJI ----------------------------
