@@ -63,17 +63,17 @@ export const PILLARS = [
 // --- 6. NEWS / CO NOWEGO --------------------------------------
 export const NEWS = [];
 
-// --- 7. CHAMPIONS / OSTATNI MISTRZOWIE ------------------------
+// --- 7. CHAMPIONS / OSTATNI MISTRZOWIE EC1 --------------------
 export const LAST_CHAMPION = {
   team: 'Team Orange',
   tournament: 'EC 1',
   score: 18520,
   place: 1,
   members: [
-    { name: 'OrangeLeader', role: 'Kapitan' },
-    { name: 'OrangeBeast', role: 'Striker' },
-    { name: 'OrangeMage', role: 'Support' },
-    { name: 'OrangeTank', role: 'Obrona' },
+    { name: 'Ego_Yoahima123', rank: 3 },
+    { name: 'okshey', rank: 10 },
+    { name: '_ZiomaleQ', rank: 18 },
+    { name: 'stachunerf', rank: 31 },
   ],
 };
 
@@ -110,18 +110,18 @@ export const TOP_PLAYERS = [
   { rank: 29, name: 'MahiruEnjoyer', mcName: 'MahiruEnjoyer', displayName: 'MahiruEnjoyer', points: 1536, team: 'CYAN', teamId: 'cyan', teamColor: 'bg-teal-500', avg: 1536, avgPlace: 29.0, editions: 1, bestFinish: 29, isSub: false },
   { rank: 30, name: 'Anna_MokeGacie', mcName: 'Anna_MokeGacie', displayName: 'Anna_MokeGacie', points: 1533, team: 'CYAN', teamId: 'cyan', teamColor: 'bg-teal-500', avg: 1533, avgPlace: 30.0, editions: 1, bestFinish: 30, isSub: false },
   { rank: 31, name: 'stachunerf', mcName: 'stachunerf', displayName: 'stachunerf', points: 1420, team: 'ORANGE', teamId: 'orange', teamColor: 'bg-orange-400', avg: 1420, avgPlace: 31.0, editions: 1, bestFinish: 31, isSub: false },
-  { rank: 32, name: 'FireBeastMode', mcName: 'FireBeastMode', displayName: 'FireBeastMode (SUB)', points: 965, team: 'BLUE', teamId: 'blue', teamColor: 'bg-blue-500', avg: 965, avgPlace: 32.0, editions: 1, bestFinish: 32, isSub: true },
+  { rank: 32, name: 'FireBeastMode', mcName: 'Steve', displayName: 'FireBeastMode (SUB)', points: 965, team: 'BLUE', teamId: 'blue', teamColor: 'bg-blue-500', avg: 965, avgPlace: 32.0, editions: 1, bestFinish: 32, isSub: true },
 ];
 
 export const TEAM_STANDINGS = [
-  { rank: 1, id: 'green', name: 'GREEN', points: 22998, color: 'bg-green-500', winner: false },
-  { rank: 2, id: 'orange', name: 'ORANGE', points: 18520, color: 'bg-orange-400', winner: true },
-  { rank: 3, id: 'purple', name: 'PURPLE', points: 18015, color: 'bg-violet-500', winner: false },
-  { rank: 4, id: 'yellow', name: 'YELLOW', points: 17484, color: 'bg-yellow-400', winner: false },
-  { rank: 5, id: 'red', name: 'RED', points: 17152, color: 'bg-red-500', winner: false },
-  { rank: 6, id: 'cyan', name: 'CYAN', points: 15934, color: 'bg-teal-500', winner: false },
-  { rank: 7, id: 'blue', name: 'BLUE', points: 13941, color: 'bg-blue-500', winner: false },
-  { rank: 8, id: 'aqua', name: 'AQUA', points: 13268, color: 'bg-cyan-400', winner: false },
+  { rank: 1, id: 'green', name: 'GREEN', points: 22998, color: 'bg-green-500' },
+  { rank: 2, id: 'orange', name: 'ORANGE', points: 18520, color: 'bg-orange-400' },
+  { rank: 3, id: 'purple', name: 'PURPLE', points: 18015, color: 'bg-violet-500' },
+  { rank: 4, id: 'yellow', name: 'YELLOW', points: 17484, color: 'bg-yellow-400' },
+  { rank: 5, id: 'red', name: 'RED', points: 17152, color: 'bg-red-500' },
+  { rank: 6, id: 'cyan', name: 'CYAN', points: 15934, color: 'bg-teal-500' },
+  { rank: 7, id: 'blue', name: 'BLUE', points: 13941, color: 'bg-blue-500' },
+  { rank: 8, id: 'aqua', name: 'AQUA', points: 13268, color: 'bg-cyan-400' },
 ];
 
 // --- 9. EDITIONS / HISTORIA EDYCJI ----------------------------
