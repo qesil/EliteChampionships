@@ -107,8 +107,8 @@ export const TOP_PLAYERS = [
   { rank: 26, name: 'Spoc0ny_Kacperek', mcName: 'Spoc0ny_Kacperek', displayName: 'Spoc0ny_Kacperek', points: 1699, team: 'AQUA', teamId: 'aqua', teamColor: 'bg-cyan-400', avg: 1699, avgPlace: 26.0, editions: 1, bestFinish: 26, isSub: false },
   { rank: 27, name: 'Robot55Ster', mcName: 'Steve', displayName: 'Robot55Ster (SUB)', points: 1652, team: 'BLUE', teamId: 'blue', teamColor: 'bg-blue-500', avg: 1652, avgPlace: 27.0, editions: 1, bestFinish: 27, isSub: true },
   { rank: 28, name: 'h3xol', mcName: 'h3xol', displayName: 'h3xol', points: 1596, team: 'RED', teamId: 'red', teamColor: 'bg-red-500', avg: 1596, avgPlace: 28.0, editions: 1, bestFinish: 28, isSub: false },
-  { rank: 29, name: 'MahiruEnjoyer', mcName: 'MahiruEnjoyer', displayName: 'MahiruEnjoyer', points: 1536, team: 'CYAN', teamId: 'cyan', teamColor: 'bg-teal-500', avg: 1536, avgPlace: 29.0, editions: 1, bestFinish: 29, isSub: false },
-  { rank: 30, name: 'Anna_MokeGacie', mcName: 'Anna_MokeGacie', displayName: 'Anna_MokeGacie', points: 1533, team: 'CYAN', teamId: 'cyan', teamColor: 'bg-teal-500', avg: 1533, avgPlace: 30.0, editions: 1, bestFinish: 30, isSub: false },
+  { rank: 29, name: 'MahiruEnjoyer', mcName: 'Mahiru_Enjoyer', displayName: 'Mahiru_Enjoyer', points: 1536, team: 'CYAN', teamId: 'cyan', teamColor: 'bg-teal-500', avg: 1536, avgPlace: 29.0, editions: 1, bestFinish: 29, isSub: false },
+  { rank: 30, name: 'Anna_MokeGacie', mcName: 'Anna_MokreGacie', displayName: 'Anna_MokreGacie', points: 1533, team: 'CYAN', teamId: 'cyan', teamColor: 'bg-teal-500', avg: 1533, avgPlace: 30.0, editions: 1, bestFinish: 30, isSub: false },
   { rank: 31, name: 'stachunerf', mcName: 'stachunerf', displayName: 'stachunerf', points: 1420, team: 'ORANGE', teamId: 'orange', teamColor: 'bg-orange-400', avg: 1420, avgPlace: 31.0, editions: 1, bestFinish: 31, isSub: false },
   { rank: 32, name: 'FireBeastMode', mcName: 'Steve', displayName: 'FireBeastMode (SUB)', points: 965, team: 'BLUE', teamId: 'blue', teamColor: 'bg-blue-500', avg: 965, avgPlace: 32.0, editions: 1, bestFinish: 32, isSub: true },
 ];
@@ -206,6 +206,106 @@ export const PLAYER_PARTNERS = {
     { name: 'QesiL', editions: 1 },
     { name: '__Obsydian__', editions: 1 },
     { name: 'Killed_By_VeGGas', editions: 1 },
+  ],
+  'Hacek_': [
+    { name: '_Bxng', editions: 1 },
+    { name: 'XxArbuzik_', editions: 1 },
+    { name: 'Mak0vkaa', editions: 1 },
+       ],
+  'real123XD': [
+    { name: 'qvwx', editions: 1 },
+    { name: 'Maqox', editions: 1 },
+    { name: 'h3xol', editions: 1 },
+       ],
+  'cyrtyna': [
+    { name: 'Tisel', editions: 1 },
+    { name: 'trolfejsx', editions: 1 },
+    { name: 'NiebieskiNN', editions: 1 },
+       ],
+  'EpicTigerPro08': [
+    { name: 'Dequaz', editions: 1 },
+    { name: 'Robot55Ster', editions: 1 },
+    { name: 'FireBeastMode', editions: 1 },
+        ],
+  'Mu55inMan': [
+    { name: 'SpaceFl1erzz', editions: 1 },
+    { name: 'Mahiru_Enjoyer', editions: 1 },
+    { name: 'Anna_MokreGacie', editions: 1 },
+     ],
+  '_ZiomaleQ': [
+    { name: 'Ego_Yoahima123', editions: 1 },
+    { name: 'okshey', editions: 1 },
+    { name: 'stachunerf', editions: 1 },
+       ],
+  'trolfejsx': [
+    { name: 'Tisel', editions: 1 },
+    { name: 'cyrtyna', editions: 1 },
+    { name: 'NiebieskiNN', editions: 1 },
+       ],
+  'NiebieskiNN': [
+    { name: 'Tisel', editions: 1 },
+    { name: 'cyrtyna', editions: 1 },
+    { name: 'trolfejsx', editions: 1 },
+       ],
+  'Maqox': [
+    { name: 'qvwx', editions: 1 },
+    { name: 'real123XD', editions: 1 },
+    { name: 'h3xol', editions: 1 },
+       ],
+  'Mak0vkaa': [
+    { name: '_Bxng', editions: 1 },
+    { name: 'Hacek_', editions: 1 },
+    { name: 'XxArbuzik_', editions: 1 },
+       ],
+  'XxArbuzik_': [
+    { name: '_Bxng', editions: 1 },
+    { name: 'Hacek_', editions: 1 },
+    { name: 'Mak0vkaa', editions: 1 },
+       ],
+  'Woosiee': [
+    { name: 'MykolaPajonkowy', editions: 1 },
+    { name: 'Wojr3kk', editions: 1 },
+    { name: 'Spoc0ny_Kacperek', editions: 1 },
+       ],
+  'Wojr3kk': [
+    { name: 'MykolaPajonkowy', editions: 1 },
+    { name: 'Woosiee', editions: 1 },
+    { name: 'Spoc0ny_Kacperek', editions: 1 },
+       ],
+  'Spoc0ny_Kacperek': [
+    { name: 'MykolaPajonkowy', editions: 1 },
+    { name: 'Woosiee', editions: 1 },
+    { name: 'Wojr3kk', editions: 1 },
+       ],
+  'Robot55Ster': [
+    { name: 'Dequaz', editions: 1 },
+    { name: 'EpicTigerPro08', editions: 1 },
+    { name: 'FireBeastMode', editions: 1 },
+       ],
+  'h3xol': [
+    { name: 'qvwx', editions: 1 },
+    { name: 'real123XD', editions: 1 },
+    { name: 'Maqox', editions: 1 },
+       ],
+  'Mahiru_Enjoyer': [
+    { name: 'SpaceFl1erzz', editions: 1 },
+    { name: 'Mu55inMan', editions: 1 },
+    { name: 'Anna_MokreGacie', editions: 1 },
+       ],
+  'Anna_MokreGacie': [
+    { name: 'SpaceFl1erzz', editions: 1 },
+    { name: 'Mu55inMan', editions: 1 },
+    { name: 'Mahiru_Enjoyer', editions: 1 },
+       ],
+  'stachunerf': [
+    { name: 'Ego_Yoahima123', editions: 1 },
+    { name: 'okshey', editions: 1 },
+    { name: '_ZiomaleQ', editions: 1 },
+       ],
+  'FireBeastMode': [
+    { name: 'Dequaz', editions: 1 },
+    { name: 'EpicTigerPro08', editions: 1 },
+    { name: 'Robot55Ster', editions: 1 }   
   ],
 };
 
